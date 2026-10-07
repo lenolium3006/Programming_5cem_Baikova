@@ -1,0 +1,11 @@
+[Default Applications]
+image/jpeg=eog.desktop;
+application/pdf=evince.desktop;
+text/plain=code.desktop;
+
+[Added Associations]
+image/jpeg=gimp.desktop;eog.desktop;
+text/plain=gedit.desktop;
+
+[Removed Associations]
+image/jpeg=old-viewer.desktop;

@@ -1,0 +1,6 @@
+[Default Applications]
+image/jpeg=eog.desktop
+
+[Added Associations]
+image/jpeg=gimp.desktop;eog.desktop
+
